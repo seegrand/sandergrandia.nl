@@ -1,0 +1,134 @@
+html,
+body {
+  background-color: #000000;
+  color: #43a047;
+  font-family: "Nunito", sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  margin: 0;
+}
+
+.full-height {
+  height: 90vh;
+}
+
+.flex-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.position-ref {
+  position: relative;
+}
+
+.top-right {
+  position: absolute;
+  right: 10px;
+  top: 18px;
+}
+
+.content {
+  text-align: center;
+}
+
+.logo img {
+  max-width: 50%;
+}
+
+.links a {
+  color: #636b6f;
+  padding: 0 25px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.m-b-md {
+  margin-bottom: 30px;
+}
+
+.footer {
+  height: 9vh;
+  align-content: end;
+}
+
+.footer .vat {
+  text-align: right;
+  position: absolute;
+  bottom: 2px;
+  right: 2px;
+}
+
+.footer .kvk {
+  text-align: left;
+  position: absolute;
+  bottom: 2px;
+  left: 2px;
+}
+
+.small {
+  color: #636b6f;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.blinking-cursor {
+  font-size: 17px;
+  -webkit-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes blink {
+  from, to {
+    color: transparent;
+  }
+
+  50% {
+    color: #636b6f;
+  }
+}
+
+@-webkit-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+
+  50% {
+    color: #636b6f;
+  }
+}
+
+/* ~~~~~~ */
+
+/* Tablet */
+
+/* ~~~~~~ */
+
+@media (max-width: 768px) {
+  .logo img {
+    max-width: 80%;
+  }
+}
+
+/* ~~~~~~ */
+
+/* Mobile */
+
+/* ~~~~~~ */
+
+@media (max-width: 480px) {
+  .links {
+    max-width: 250px;
+    margin: 0 auto;
+  }
+
+  .links a {
+    line-height: 4;
+    font-size: 15px;
+  }
+}
+

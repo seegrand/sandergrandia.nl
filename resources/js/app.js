@@ -1,0 +1,2 @@
+// Bootstrap
+require('./bootstrap');
