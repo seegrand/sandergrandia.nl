@@ -11,6 +11,6 @@
     <div id='output-wrapper'></div>
 
     <div class='input-wrapper'>
-        <span>$&nbsp;</span><input id='input' type='text' autofocus spellcheck="false"/>
+        <span>$&nbsp;</span><input id='input' type='text' autofocus spellcheck="false" autocapitalize="none" />
     </div>
 @endsection
