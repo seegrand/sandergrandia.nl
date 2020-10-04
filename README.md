@@ -12,15 +12,19 @@ Ooh and ASCII art. Of course...
 
 ## Build with
 
-<span style="font-family: monospace;white-space: pre;">
-▐█▀▀▀▀█<br/>
-&nbsp;█▌&nbsp;&nbsp;&nbsp;&nbsp;█▄<br/>
-&nbsp;▀█&nbsp;&nbsp;&nbsp;&nbsp;▀█&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█▀▀▀▀▄<br/>
-&nbsp;&nbsp;▀█&nbsp;&nbsp;&nbsp;&nbsp;▐█&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▀▄&nbsp;&nbsp;▐█<br/>
-&nbsp;&nbsp;&nbsp;▀█&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█▄&nbsp;&nbsp;▄▄▄▄▀▀█▀▀<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;▀█▄▄██▀██▀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▀▄<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▀█&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▄▄▄█▀<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▐███▀▀▀<br/>
-</span>
+```
+▐█▀▀▀▀█
+ █▌    █▄
+ ▀█    ▀█        █▀▀▀▀▄
+  ▀█    ▐█        ▀▄  ▐█
+   ▀█     █▄  ▄▄▄▄▀▀█▀▀
+    ▀█▄▄██▀██▀       ▀▄
+            ▀█     ▄▄▄█▀
+             ▐███▀▀▀
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laravel 7
+          Laravel 7
+```
+
+- [javascript-terminal :octocat:](https://github.com/rohanchandra/javascript-terminal)
+- SASS
+- Webpack
