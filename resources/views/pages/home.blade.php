@@ -18,7 +18,7 @@
                 <a href="{{ url('/terminal') }}"><i class="fas fa-terminal"></i>&nbsp;Terminal<span class="blinking-cursor">|</span></a>
                 <a href="https://www.linkedin.com/in/sandergrandia/"><i class="fab fa-linkedin"></i>&nbsp;Linkedin</a>
                 <a href="https://github.com/seegrand"><i class="fab fa-github"></i>&nbsp;Github</a>
-                <a href="https://www.instagram.com/sander969/"><i class="fab fa-instagram"></i>&nbsp;Instagram</a>
+                <a href="https://www.instagram.com/seegrand_"><i class="fab fa-instagram"></i>&nbsp;Instagram</a>
                 <a href="https://sander.grandia.it/"><i class="fas fa-address-card"></i>&nbsp;About</a>
             </div>
         </div>
